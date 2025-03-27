@@ -1,5 +1,5 @@
 //Array of different pieces of data
-const subjects = ['Kendrick Lamar', 'Sade', 'Beyoncé'];
+const subjects = ['Kendrick Lamar', 'Sade', 'Beyoncé', 'Herbert Grönemeyer'];
 const actions = ['is a lyrical genius', 'will do a Europe tour in 2026', 'drops a new album next friday'];
 const consequences = ['but shockingly the media is silent about it.', 'that causes fans to be hysterical!', 'whilst losing every single race in Mario Kart Double Dash.'];
 
