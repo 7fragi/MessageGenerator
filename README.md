@@ -57,4 +57,4 @@ This project could be used as a starting point for more advanced applications, s
 If you would like to contribute or collaborate on this project, feel free to open an issue or submit a pull request!
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the MIT License.
